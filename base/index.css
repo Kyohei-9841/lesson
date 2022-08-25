@@ -1,6 +1,5 @@
 h1{
     font-family:Arial Black ;
-    
 }
 .container {
     display: flex;
@@ -47,7 +46,6 @@ h1{
 }
 .room8{
     font-size: 16pt; 
-    /* padding: 12px 465px; */
     width: 100%;
     background: #7e7d7d;
     color: #ffffff;
@@ -57,7 +55,6 @@ h1{
     border: 1px  solid white;
     width: 30%;
     background-color:rgb(202, 202, 202);
-    /* padding: 30px 50px; */
     display: flex;
     align-items: center;
 }
@@ -96,7 +93,6 @@ h1{
     flex-direction: column;
     border: 1px solid white;
     width: 70%;
-    /* padding: 30px 740px 30px 5px;  */
     background-color:rgb(202, 202, 202); ;
 }
 .class8{
@@ -114,7 +110,6 @@ h1{
     border:1px solid rgb(206, 206, 206);
     width: 90%;
     margin:10px; 
-    /* margin :10px  ; */
 }
 .back{
     background-color: #7e7d7d;
@@ -122,7 +117,6 @@ h1{
 }
 textarea {
     resize: none;
-    /* width:800px; */
     height:200px;
     margin:10px; 
     width: 90%;
