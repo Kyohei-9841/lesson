@@ -1,0 +1,1 @@
+console.log("初期表示")
